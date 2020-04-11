@@ -23,7 +23,6 @@ Partial Class arac_detay
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Me.components = New System.ComponentModel.Container()
-        Me.Label6 = New System.Windows.Forms.Label()
         Me.Button1 = New System.Windows.Forms.Button()
         Me.Label7 = New System.Windows.Forms.Label()
         Me.Label8 = New System.Windows.Forms.Label()
@@ -56,24 +55,18 @@ Partial Class arac_detay
         Me.label_giris_tarihi = New System.Windows.Forms.Label()
         Me.GunaGroupBox3 = New Guna.UI.WinForms.GunaGroupBox()
         Me.Timer1 = New System.Windows.Forms.Timer(Me.components)
+        Me.Panel1 = New System.Windows.Forms.Panel()
         Me.Label11 = New System.Windows.Forms.Label()
-        Me.Button42 = New System.Windows.Forms.Button()
-        Me.TextBox1 = New System.Windows.Forms.TextBox()
+        Me.Label12 = New System.Windows.Forms.Label()
+        Me.Label13 = New System.Windows.Forms.Label()
+        Me.Label6 = New System.Windows.Forms.Label()
+        Me.tarihh = New System.Windows.Forms.Label()
+        Me.saatt = New System.Windows.Forms.Label()
         Me.GunaGroupBox2.SuspendLayout()
         Me.GunaGroupBox1.SuspendLayout()
         Me.GunaGroupBox3.SuspendLayout()
+        Me.Panel1.SuspendLayout()
         Me.SuspendLayout()
-        '
-        'Label6
-        '
-        Me.Label6.Dock = System.Windows.Forms.DockStyle.Top
-        Me.Label6.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(162, Byte))
-        Me.Label6.Location = New System.Drawing.Point(0, 0)
-        Me.Label6.Name = "Label6"
-        Me.Label6.Size = New System.Drawing.Size(850, 28)
-        Me.Label6.TabIndex = 9
-        Me.Label6.Text = "Label6"
-        Me.Label6.TextAlign = System.Drawing.ContentAlignment.TopCenter
         '
         'Button1
         '
@@ -421,41 +414,82 @@ Partial Class arac_detay
         'Timer1
         '
         '
+        'Panel1
+        '
+        Me.Panel1.BackColor = System.Drawing.Color.LightGray
+        Me.Panel1.Controls.Add(Me.saatt)
+        Me.Panel1.Controls.Add(Me.tarihh)
+        Me.Panel1.Controls.Add(Me.Label6)
+        Me.Panel1.Controls.Add(Me.Label11)
+        Me.Panel1.Controls.Add(Me.Label12)
+        Me.Panel1.Controls.Add(Me.Label13)
+        Me.Panel1.Location = New System.Drawing.Point(1, 0)
+        Me.Panel1.Name = "Panel1"
+        Me.Panel1.Size = New System.Drawing.Size(505, 50)
+        Me.Panel1.TabIndex = 167
+        '
         'Label11
         '
         Me.Label11.AutoSize = True
-        Me.Label11.Location = New System.Drawing.Point(497, 104)
+        Me.Label11.Location = New System.Drawing.Point(3, 8)
         Me.Label11.Name = "Label11"
-        Me.Label11.Size = New System.Drawing.Size(45, 13)
-        Me.Label11.TabIndex = 170
-        Me.Label11.Text = "Label11"
+        Me.Label11.Size = New System.Drawing.Size(34, 13)
+        Me.Label11.TabIndex = 162
+        Me.Label11.Text = "Tarih:"
         '
-        'Button42
+        'Label12
         '
-        Me.Button42.Location = New System.Drawing.Point(498, 75)
-        Me.Button42.Name = "Button42"
-        Me.Button42.Size = New System.Drawing.Size(75, 23)
-        Me.Button42.TabIndex = 169
-        Me.Button42.Text = "Button42"
-        Me.Button42.UseVisualStyleBackColor = True
+        Me.Label12.AutoSize = True
+        Me.Label12.Location = New System.Drawing.Point(5, 29)
+        Me.Label12.Name = "Label12"
+        Me.Label12.Size = New System.Drawing.Size(32, 13)
+        Me.Label12.TabIndex = 163
+        Me.Label12.Text = "Saat:"
         '
-        'TextBox1
+        'Label13
         '
-        Me.TextBox1.Location = New System.Drawing.Point(579, 78)
-        Me.TextBox1.Name = "TextBox1"
-        Me.TextBox1.Size = New System.Drawing.Size(100, 20)
-        Me.TextBox1.TabIndex = 171
+        Me.Label13.AutoSize = True
+        Me.Label13.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(162, Byte))
+        Me.Label13.Location = New System.Drawing.Point(186, 13)
+        Me.Label13.Name = "Label13"
+        Me.Label13.Size = New System.Drawing.Size(147, 20)
+        Me.Label13.TabIndex = 0
+        Me.Label13.Text = "OTOPARK TAKİP"
+        '
+        'Label6
+        '
+        Me.Label6.Location = New System.Drawing.Point(399, 8)
+        Me.Label6.Name = "Label6"
+        Me.Label6.Size = New System.Drawing.Size(95, 34)
+        Me.Label6.TabIndex = 0
+        Me.Label6.Text = "Label6"
+        Me.Label6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
+        '
+        'tarihh
+        '
+        Me.tarihh.AutoSize = True
+        Me.tarihh.Location = New System.Drawing.Point(41, 8)
+        Me.tarihh.Name = "tarihh"
+        Me.tarihh.Size = New System.Drawing.Size(45, 13)
+        Me.tarihh.TabIndex = 164
+        Me.tarihh.Text = "Label14"
+        '
+        'saatt
+        '
+        Me.saatt.AutoSize = True
+        Me.saatt.Location = New System.Drawing.Point(41, 29)
+        Me.saatt.Name = "saatt"
+        Me.saatt.Size = New System.Drawing.Size(45, 13)
+        Me.saatt.TabIndex = 165
+        Me.saatt.Text = "Label15"
         '
         'arac_detay
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(850, 599)
-        Me.Controls.Add(Me.TextBox1)
-        Me.Controls.Add(Me.Label11)
-        Me.Controls.Add(Me.Button42)
+        Me.ClientSize = New System.Drawing.Size(507, 599)
+        Me.Controls.Add(Me.Panel1)
         Me.Controls.Add(Me.GunaGroupBox3)
-        Me.Controls.Add(Me.Label6)
         Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.GunaGroupBox2)
@@ -468,11 +502,11 @@ Partial Class arac_detay
         Me.GunaGroupBox1.PerformLayout()
         Me.GunaGroupBox3.ResumeLayout(False)
         Me.GunaGroupBox3.PerformLayout()
+        Me.Panel1.ResumeLayout(False)
+        Me.Panel1.PerformLayout()
         Me.ResumeLayout(False)
-        Me.PerformLayout()
 
     End Sub
-    Friend WithEvents Label6 As System.Windows.Forms.Label
     Friend WithEvents Button1 As System.Windows.Forms.Button
     Friend WithEvents Label7 As System.Windows.Forms.Label
     Friend WithEvents Label8 As System.Windows.Forms.Label
@@ -505,7 +539,11 @@ Partial Class arac_detay
     Friend WithEvents label_giris_tarihi As System.Windows.Forms.Label
     Friend WithEvents GunaGroupBox3 As Guna.UI.WinForms.GunaGroupBox
     Friend WithEvents Timer1 As System.Windows.Forms.Timer
+    Friend WithEvents Panel1 As System.Windows.Forms.Panel
     Friend WithEvents Label11 As System.Windows.Forms.Label
-    Friend WithEvents Button42 As System.Windows.Forms.Button
-    Friend WithEvents TextBox1 As System.Windows.Forms.TextBox
+    Friend WithEvents Label12 As System.Windows.Forms.Label
+    Friend WithEvents Label13 As System.Windows.Forms.Label
+    Friend WithEvents Label6 As System.Windows.Forms.Label
+    Friend WithEvents saatt As System.Windows.Forms.Label
+    Friend WithEvents tarihh As System.Windows.Forms.Label
 End Class
