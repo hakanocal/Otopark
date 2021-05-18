@@ -10,15 +10,15 @@
 
 Visual Basic .NET, MsSQL 2012 ve Visual Studio 2012 kullanılarak hazırlandı
 
-Websitesini bilgisayarınızda sorunsuz bir şekilde çalıştırabilmek için:\
+Programı bilgisayarınızda sorunsuz bir şekilde çalıştırabilmek için:\
 · MsSQL kurulu olmalı \
 · Otopark veritabanını oluşturmak için "OTOPARK VERİTABANI/script.sql" çalıştırılmalı\
-· anasayfa.vb dosyasındaki Public src As String = "..." satırına veritabanı server name'i yazılmalı\
+· anasayfa.vb dosyasındaki Public src As String = "buraya-server-name-yazilacak" satırına veritabanı server name'i yazılmalı\
 · otoparkDataSet.xsd silinmeli ve tekrar tanımlanmalı\
 · Tekrar dataset tanımlamak için: \
 Project/Add new Data Source/Database/Dataset/New Connection (\
 Data Source: Microsoft SQL SERVER, \
-Server Name: veritabanı servername'i,\
+Server Name: veritabanı servername,\
 Database Name: otopark\
 ) \
 OK > Next > "Tables"a tik atılır ve "DataSet name: otoparkDataSet" olduğundan emin olunur. 
