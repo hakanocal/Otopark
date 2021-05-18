@@ -1,0 +1,131 @@
+c:\users\hakan\documents\visual studio 2012\Projects\otopark\otopark\bin\Debug\otopark.exe.config
+c:\users\hakan\documents\visual studio 2012\Projects\otopark\otopark\bin\Debug\otopark.exe
+c:\users\hakan\documents\visual studio 2012\Projects\otopark\otopark\bin\Debug\otopark.pdb
+c:\users\hakan\documents\visual studio 2012\Projects\otopark\otopark\bin\Debug\otopark.xml
+c:\users\hakan\documents\visual studio 2012\Projects\otopark\otopark\bin\Debug\Bunifu_UI_v1.52.dll
+c:\users\hakan\documents\visual studio 2012\Projects\otopark\otopark\bin\Debug\Guna.UI.dll
+c:\users\hakan\documents\visual studio 2012\Projects\otopark\otopark\bin\Debug\Guna.UI.pdb
+c:\users\hakan\documents\visual studio 2012\Projects\otopark\otopark\obj\Debug\otopark.Resources.resources
+c:\users\hakan\documents\visual studio 2012\Projects\otopark\otopark\obj\Debug\otopark.vbproj.GenerateResource.Cache
+c:\users\hakan\documents\visual studio 2012\Projects\otopark\otopark\obj\Debug\otopark.exe
+c:\users\hakan\documents\visual studio 2012\Projects\otopark\otopark\obj\Debug\otopark.xml
+c:\users\hakan\documents\visual studio 2012\Projects\otopark\otopark\obj\Debug\otopark.pdb
+c:\users\hakan\documents\visual studio 2012\Projects\otopark\otopark\obj\Debug\otopark.anasayfa.resources
+c:\users\hakan\documents\visual studio 2012\Projects\otopark\otopark\obj\Debug\otopark.arac_ekle.resources
+c:\users\hakan\documents\visual studio 2012\Projects\otopark\otopark\obj\Debug\otopark.gecmis.resources
+C:\Users\hakan\documents\visual studio 2012\Projects\otopark\otopark\obj\Debug\otopark.arac_detay.resources
+C:\Users\hakan\documents\visual studio 2012\Projects\otopark\otopark\obj\Debug\otopark.vbprojResolveAssemblyReference.cache
+C:\Users\hakan\Desktop\otopark\otopark\bin\Debug\otopark.exe.config
+C:\Users\hakan\Desktop\otopark\otopark\obj\Debug\otopark.exe
+C:\Users\hakan\Desktop\otopark\otopark\obj\Debug\otopark.xml
+C:\Users\hakan\Desktop\otopark\otopark\obj\Debug\otopark.pdb
+C:\Users\hakan\Desktop\otopark\otopark\bin\Debug\otopark.exe
+C:\Users\hakan\Desktop\otopark\otopark\bin\Debug\otopark.pdb
+C:\Users\hakan\Desktop\otopark\otopark\bin\Debug\otopark.xml
+C:\Users\hakan\Desktop\otopark\otopark\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\hakan\Desktop\otopark\otopark\bin\Debug\Guna.UI.dll
+C:\Users\hakan\Desktop\otopark\otopark\bin\Debug\Guna.UI.pdb
+C:\Users\hakan\Desktop\otopark\otopark\obj\Debug\otopark.vbprojResolveAssemblyReference.cache
+C:\Users\hakan\Desktop\otopark\otopark\obj\Debug\otopark.anasayfa.resources
+C:\Users\hakan\Desktop\otopark\otopark\obj\Debug\otopark.arac_detay.resources
+C:\Users\hakan\Desktop\otopark\otopark\obj\Debug\otopark.arac_ekle.resources
+C:\Users\hakan\Desktop\otopark\otopark\obj\Debug\otopark.gecmis.resources
+C:\Users\hakan\Desktop\otopark\otopark\obj\Debug\otopark.Resources.resources
+C:\Users\hakan\Desktop\otopark\otopark\obj\Debug\otopark.vbproj.GenerateResource.Cache
+C:\Users\hakan\Desktop\Otopark-takip-projesi-master\Otopark-takip-projesi-master\otopark\otopark\otopark\bin\Debug\otopark.exe.config
+C:\Users\hakan\Desktop\Otopark-takip-projesi-master\Otopark-takip-projesi-master\otopark\otopark\otopark\obj\Debug\otopark.exe
+C:\Users\hakan\Desktop\Otopark-takip-projesi-master\Otopark-takip-projesi-master\otopark\otopark\otopark\obj\Debug\otopark.xml
+C:\Users\hakan\Desktop\Otopark-takip-projesi-master\Otopark-takip-projesi-master\otopark\otopark\otopark\obj\Debug\otopark.pdb
+C:\Users\hakan\Desktop\Otopark-takip-projesi-master\Otopark-takip-projesi-master\otopark\otopark\otopark\bin\Debug\otopark.exe
+C:\Users\hakan\Desktop\Otopark-takip-projesi-master\Otopark-takip-projesi-master\otopark\otopark\otopark\bin\Debug\otopark.pdb
+C:\Users\hakan\Desktop\Otopark-takip-projesi-master\Otopark-takip-projesi-master\otopark\otopark\otopark\bin\Debug\otopark.xml
+C:\Users\hakan\Desktop\Otopark-takip-projesi-master\Otopark-takip-projesi-master\otopark\otopark\otopark\bin\Debug\Guna.UI.pdb
+C:\Users\hakan\Desktop\Otopark-takip-projesi-master\Otopark-takip-projesi-master\otopark\otopark\otopark\obj\Debug\otopark.vbprojResolveAssemblyReference.cache
+C:\Users\hakan\Desktop\Otopark-takip-projesi-master\Otopark-takip-projesi-master\otopark\otopark\otopark\obj\Debug\otopark.anasayfa.resources
+C:\Users\hakan\Desktop\Otopark-takip-projesi-master\Otopark-takip-projesi-master\otopark\otopark\otopark\obj\Debug\otopark.arac_detay.resources
+C:\Users\hakan\Desktop\Otopark-takip-projesi-master\Otopark-takip-projesi-master\otopark\otopark\otopark\obj\Debug\otopark.arac_ekle.resources
+C:\Users\hakan\Desktop\Otopark-takip-projesi-master\Otopark-takip-projesi-master\otopark\otopark\otopark\obj\Debug\otopark.gecmis.resources
+C:\Users\hakan\Desktop\Otopark-takip-projesi-master\Otopark-takip-projesi-master\otopark\otopark\otopark\obj\Debug\otopark.Resources.resources
+C:\Users\hakan\Desktop\Otopark-takip-projesi-master\Otopark-takip-projesi-master\otopark\otopark\otopark\obj\Debug\otopark.vbproj.GenerateResource.Cache
+C:\Users\hakan\Desktop\OTOPARK PROJESİ\otopark\otopark\bin\Debug\otopark.exe.config
+C:\Users\hakan\Desktop\OTOPARK PROJESİ\otopark\otopark\obj\Debug\otopark.exe
+C:\Users\hakan\Desktop\OTOPARK PROJESİ\otopark\otopark\obj\Debug\otopark.xml
+C:\Users\hakan\Desktop\OTOPARK PROJESİ\otopark\otopark\obj\Debug\otopark.pdb
+C:\Users\hakan\Desktop\OTOPARK LANM\otopark\otopark\bin\Debug\otopark.exe.config
+C:\Users\hakan\Desktop\OTOPARK LANM\otopark\otopark\obj\Debug\otopark.exe
+C:\Users\hakan\Desktop\OTOPARK LANM\otopark\otopark\obj\Debug\otopark.xml
+C:\Users\hakan\Desktop\OTOPARK LANM\otopark\otopark\obj\Debug\otopark.pdb
+C:\Users\hakan\Desktop\OTOPARK LANM\otopark\otopark\bin\Debug\otopark.exe
+C:\Users\hakan\Desktop\OTOPARK LANM\otopark\otopark\bin\Debug\otopark.pdb
+C:\Users\hakan\Desktop\OTOPARK LANM\otopark\otopark\bin\Debug\otopark.xml
+C:\Users\hakan\Desktop\OTOPARK LANM\otopark\otopark\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\hakan\Desktop\OTOPARK LANM\otopark\otopark\bin\Debug\Guna.UI.dll
+C:\Users\hakan\Desktop\OTOPARK LANM\otopark\otopark\bin\Debug\Guna.UI.pdb
+C:\Users\hakan\Desktop\OTOPARK LANM\otopark\otopark\obj\Debug\otopark.vbprojResolveAssemblyReference.cache
+C:\Users\hakan\Desktop\OTOPARK LANM\otopark\otopark\obj\Debug\otopark.anasayfa.resources
+C:\Users\hakan\Desktop\OTOPARK LANM\otopark\otopark\obj\Debug\otopark.arac_detay.resources
+C:\Users\hakan\Desktop\OTOPARK LANM\otopark\otopark\obj\Debug\otopark.arac_ekle.resources
+C:\Users\hakan\Desktop\OTOPARK LANM\otopark\otopark\obj\Debug\otopark.gecmis.resources
+C:\Users\hakan\Desktop\OTOPARK LANM\otopark\otopark\obj\Debug\otopark.Resources.resources
+C:\Users\hakan\Desktop\OTOPARK LANM\otopark\otopark\obj\Debug\otopark.vbproj.GenerateResource.Cache
+C:\Users\hakan\Desktop\OTOPARK PROJESİ\otopark\otopark\bin\Debug\otopark.exe
+C:\Users\hakan\Desktop\OTOPARK PROJESİ\otopark\otopark\bin\Debug\otopark.pdb
+C:\Users\hakan\Desktop\OTOPARK PROJESİ\otopark\otopark\bin\Debug\otopark.xml
+C:\Users\hakan\Desktop\OTOPARK PROJESİ\otopark\otopark\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\hakan\Desktop\OTOPARK PROJESİ\otopark\otopark\bin\Debug\Guna.UI.dll
+C:\Users\hakan\Desktop\OTOPARK PROJESİ\otopark\otopark\bin\Debug\Guna.UI.pdb
+C:\Users\hakan\Desktop\OTOPARK PROJESİ\otopark\otopark\obj\Debug\otopark.anasayfa.resources
+C:\Users\hakan\Desktop\OTOPARK PROJESİ\otopark\otopark\obj\Debug\otopark.arac_detay.resources
+C:\Users\hakan\Desktop\OTOPARK PROJESİ\otopark\otopark\obj\Debug\otopark.arac_ekle.resources
+C:\Users\hakan\Desktop\OTOPARK PROJESİ\otopark\otopark\obj\Debug\otopark.gecmis.resources
+C:\Users\hakan\Desktop\OTOPARK PROJESİ\otopark\otopark\obj\Debug\otopark.Resources.resources
+C:\Users\hakan\Desktop\OTOPARK PROJESİ\otopark\otopark\obj\Debug\otopark.vbproj.GenerateResource.Cache
+C:\Users\hakan\Desktop\OTOPARK PROJESİ\otopark\otopark\obj\Debug\otopark.ucretlendirme.resources
+C:\Users\hakan\Desktop\OTOPARK PROJESİ\OTOPARK PROJESİ\otopark\otopark\bin\Debug\otopark.exe.config
+C:\Users\hakan\Desktop\OTOPARK PROJESİ\OTOPARK PROJESİ\otopark\otopark\obj\Debug\otopark.exe
+C:\Users\hakan\Desktop\OTOPARK PROJESİ\OTOPARK PROJESİ\otopark\otopark\obj\Debug\otopark.xml
+C:\Users\hakan\Desktop\OTOPARK PROJESİ\OTOPARK PROJESİ\otopark\otopark\obj\Debug\otopark.pdb
+C:\Users\hakan\Desktop\OTOPARK PROJESİ\OTOPARK PROJESİ\otopark\otopark\bin\Debug\otopark.exe
+C:\Users\hakan\Desktop\OTOPARK PROJESİ\OTOPARK PROJESİ\otopark\otopark\bin\Debug\otopark.pdb
+C:\Users\hakan\Desktop\OTOPARK PROJESİ\OTOPARK PROJESİ\otopark\otopark\bin\Debug\otopark.xml
+C:\Users\hakan\Desktop\OTOPARK PROJESİ\OTOPARK PROJESİ\otopark\otopark\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\hakan\Desktop\OTOPARK PROJESİ\OTOPARK PROJESİ\otopark\otopark\bin\Debug\Guna.UI.dll
+C:\Users\hakan\Desktop\OTOPARK PROJESİ\OTOPARK PROJESİ\otopark\otopark\bin\Debug\Guna.UI.pdb
+C:\Users\hakan\Desktop\OTOPARK PROJESİ\OTOPARK PROJESİ\otopark\otopark\obj\Debug\otopark.vbprojResolveAssemblyReference.cache
+C:\Users\hakan\Desktop\OTOPARK PROJESİ\OTOPARK PROJESİ\otopark\otopark\obj\Debug\otopark.anasayfa.resources
+C:\Users\hakan\Desktop\OTOPARK PROJESİ\OTOPARK PROJESİ\otopark\otopark\obj\Debug\otopark.arac_detay.resources
+C:\Users\hakan\Desktop\OTOPARK PROJESİ\OTOPARK PROJESİ\otopark\otopark\obj\Debug\otopark.arac_ekle.resources
+C:\Users\hakan\Desktop\OTOPARK PROJESİ\OTOPARK PROJESİ\otopark\otopark\obj\Debug\otopark.gecmis.resources
+C:\Users\hakan\Desktop\OTOPARK PROJESİ\OTOPARK PROJESİ\otopark\otopark\obj\Debug\otopark.Resources.resources
+C:\Users\hakan\Desktop\OTOPARK PROJESİ\OTOPARK PROJESİ\otopark\otopark\obj\Debug\otopark.ucretlendirme.resources
+C:\Users\hakan\Desktop\OTOPARK PROJESİ\OTOPARK PROJESİ\otopark\otopark\obj\Debug\otopark.vbproj.GenerateResource.Cache
+C:\Users\hakan\Desktop\OTOPARK PROJESİ\OTOPARK PROJESİ\OTOPARK PROJESİ\otopark\otopark\bin\Debug\otopark.exe.config
+C:\Users\hakan\Desktop\OTOPARK PROJESİ\OTOPARK PROJESİ\OTOPARK PROJESİ\otopark\otopark\obj\Debug\otopark.exe
+C:\Users\hakan\Desktop\OTOPARK PROJESİ\OTOPARK PROJESİ\OTOPARK PROJESİ\otopark\otopark\obj\Debug\otopark.xml
+C:\Users\hakan\Desktop\OTOPARK PROJESİ\OTOPARK PROJESİ\OTOPARK PROJESİ\otopark\otopark\obj\Debug\otopark.pdb
+C:\Users\hakan\Desktop\OTOPARK PROJESİ\OTOPARK PROJESİ\OTOPARK PROJESİ\otopark\otopark\bin\Debug\otopark.exe
+C:\Users\hakan\Desktop\OTOPARK PROJESİ\OTOPARK PROJESİ\OTOPARK PROJESİ\otopark\otopark\bin\Debug\otopark.pdb
+C:\Users\hakan\Desktop\OTOPARK PROJESİ\OTOPARK PROJESİ\OTOPARK PROJESİ\otopark\otopark\bin\Debug\otopark.xml
+C:\Users\hakan\Desktop\OTOPARK PROJESİ\OTOPARK PROJESİ\OTOPARK PROJESİ\otopark\otopark\obj\Debug\otopark.anasayfa.resources
+C:\Users\hakan\Desktop\OTOPARK PROJESİ\OTOPARK PROJESİ\OTOPARK PROJESİ\otopark\otopark\obj\Debug\otopark.arac_detay.resources
+C:\Users\hakan\Desktop\OTOPARK PROJESİ\OTOPARK PROJESİ\OTOPARK PROJESİ\otopark\otopark\obj\Debug\otopark.arac_ekle.resources
+C:\Users\hakan\Desktop\OTOPARK PROJESİ\OTOPARK PROJESİ\OTOPARK PROJESİ\otopark\otopark\obj\Debug\otopark.gecmis.resources
+C:\Users\hakan\Desktop\OTOPARK PROJESİ\OTOPARK PROJESİ\OTOPARK PROJESİ\otopark\otopark\obj\Debug\otopark.Resources.resources
+C:\Users\hakan\Desktop\OTOPARK PROJESİ\OTOPARK PROJESİ\OTOPARK PROJESİ\otopark\otopark\obj\Debug\otopark.ucretlendirme.resources
+C:\Users\hakan\Desktop\OTOPARK PROJESİ\OTOPARK PROJESİ\OTOPARK PROJESİ\otopark\otopark\obj\Debug\otopark.vbproj.GenerateResource.Cache
+C:\Users\hakan\Desktop\OTOPARK PROJESİ\OTOPARK PROJESİ\OTOPARK PROJESİ\otopark\otopark\obj\Debug\otopark.vbprojResolveAssemblyReference.cache
+C:\Users\hakan\Desktop\apt and park\OTOPARK OTOMASYONU\OTOPARK DOSYALARI\otopark\otopark\bin\Debug\otopark.exe.config
+C:\Users\hakan\Desktop\apt and park\OTOPARK OTOMASYONU\OTOPARK DOSYALARI\otopark\otopark\obj\Debug\otopark.exe
+C:\Users\hakan\Desktop\apt and park\OTOPARK OTOMASYONU\OTOPARK DOSYALARI\otopark\otopark\obj\Debug\otopark.xml
+C:\Users\hakan\Desktop\apt and park\OTOPARK OTOMASYONU\OTOPARK DOSYALARI\otopark\otopark\obj\Debug\otopark.pdb
+C:\Users\hakan\Desktop\apt and park\OTOPARK OTOMASYONU\OTOPARK DOSYALARI\otopark\otopark\bin\Debug\otopark.exe
+C:\Users\hakan\Desktop\apt and park\OTOPARK OTOMASYONU\OTOPARK DOSYALARI\otopark\otopark\bin\Debug\otopark.pdb
+C:\Users\hakan\Desktop\apt and park\OTOPARK OTOMASYONU\OTOPARK DOSYALARI\otopark\otopark\bin\Debug\otopark.xml
+C:\Users\hakan\Desktop\apt and park\OTOPARK OTOMASYONU\OTOPARK DOSYALARI\otopark\otopark\obj\Debug\otopark.vbprojResolveAssemblyReference.cache
+C:\Users\hakan\Desktop\apt and park\OTOPARK OTOMASYONU\OTOPARK DOSYALARI\otopark\otopark\obj\Debug\otopark.anasayfa.resources
+C:\Users\hakan\Desktop\apt and park\OTOPARK OTOMASYONU\OTOPARK DOSYALARI\otopark\otopark\obj\Debug\otopark.arac_detay.resources
+C:\Users\hakan\Desktop\apt and park\OTOPARK OTOMASYONU\OTOPARK DOSYALARI\otopark\otopark\obj\Debug\otopark.arac_ekle.resources
+C:\Users\hakan\Desktop\apt and park\OTOPARK OTOMASYONU\OTOPARK DOSYALARI\otopark\otopark\obj\Debug\otopark.gecmis.resources
+C:\Users\hakan\Desktop\apt and park\OTOPARK OTOMASYONU\OTOPARK DOSYALARI\otopark\otopark\obj\Debug\otopark.Resources.resources
+C:\Users\hakan\Desktop\apt and park\OTOPARK OTOMASYONU\OTOPARK DOSYALARI\otopark\otopark\obj\Debug\otopark.ucretlendirme.resources
+C:\Users\hakan\Desktop\apt and park\OTOPARK OTOMASYONU\OTOPARK DOSYALARI\otopark\otopark\obj\Debug\otopark.vbproj.GenerateResource.Cache
